@@ -1,6 +1,6 @@
 # Business Card Linux
 
-[![Actions Status](https://github.com/thirtythreeforty/businesscard-linux/workflows/CI/badge.svg)](https://github.com/thirtythreeforty/businesscard-linux/actions)
+[![Actions Status](https://github.com/tverdonck/businesscard-linux/workflows/CI/badge.svg)](https://github.com/tverdonck/businesscard-linux/actions)
 
 This is the Linux distribution small enough to run from the 8MB of storage on my Linux-powered business card.
 It is powered by the Allwinner F1C100s, a $1.40 Linux-capable ARM system-on-chip.
